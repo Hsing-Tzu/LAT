@@ -4,3 +4,5 @@
 ### 授課教師：蔡芸琤老師👩🏻‍💻
 ### 姓名：柯幸孜🌼
 ### 系級：科技系114級🦁
+
+[23](https://github.com/Hsing-Tzu/LAT/blob/main/1.txt)
