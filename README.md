@@ -13,7 +13,7 @@
 
 
 ## > 作業連結區 :pencil:
-
+###  - [作業1](https://github.com/Hsing-Tzu/LAT/blob/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/Homework%201/Homework%201.ipynb)
 
 
 ## > 專題連結區 🔜
