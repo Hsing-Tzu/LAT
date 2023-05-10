@@ -11,13 +11,13 @@
 ## 互動結果 
 - Level 1 + 2
 
-![hw4-1+2](/path/to/Level1+2.jpg)
+![hw4-1+2](https://github.com/Hsing-Tzu/LAT/blob/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/Homework%204/Level1%2B2.jpg)
 ```
  > 結果變成中文，並附上信心指數
 ```
 - Level 3
 
-![hw4-3](/path/to/Level3.jpg)
+![hw4-3](https://github.com/Hsing-Tzu/LAT/blob/main/%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80/Homework%204/Level3.jpg)
 
 ```
  > 針對主詞進行評價回覆
