@@ -22,3 +22,4 @@
 ## > 專題連結區 🔜
 ###  - [ESTube_Demo](https://www.figma.com/proto/MxxlazA7YkrJDzn9hD14Qj/LAT?type=design&node-id=25-94&scaling=min-zoom&page-id=25%3A93&starting-point-node-id=25%3A94)
 #### >[Source Code](https://github.com/Hsing-Tzu/LAT/tree/main/%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80/Code)
+#### >[PPT](https://github.com/Hsing-Tzu/LAT/blob/main/%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80/ESTube.pdf)
